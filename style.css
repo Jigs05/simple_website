@@ -1,0 +1,100 @@
+  .body_style {
+    /* background-color: rgb(136, 217, 255); */
+     background-image: url("dark.jpg");
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 30px;
+    font-size: 20px;
+    text-align: center; 
+    text-transform: uppercase;
+    color: #4CAF50;
+  }
+  
+  li {
+    display: inline;
+  }
+
+  .h_ome {
+    background-color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: black;
+  }
+
+  .r_esume {
+    background-color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: black;
+  }
+
+  .c_ontact {
+    background-color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: black;
+  }
+
+  .a_bout {
+    background-color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: black;
+  }
+
+  .home {
+    text-align: center;
+    color: white;
+    border-width: 5px;
+    font-size: 20px;
+  }
+  .p_one {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+  }
+  .resume {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+  }
+  .p_two {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+  }
+
+  .contact {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+  }
+  .p_three {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+  }
+
+  .about {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+  }
+  .p_four {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+  }
+
+  .round_image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 30px;
+    align-items: center;
+  }
+
